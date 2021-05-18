@@ -17,4 +17,4 @@
 * Lembrando código de qualidade, você pode e deve fazer o que achar necessário para isso, mesmo que não esteja listado aqui.
 
 **Prazo:**
-* 1 dia (18/10/16 09:00 a 19/10/16 12:00) _Extenderemos até às 12h só para ser um horário mais fechado_.
+* 1 dia (18/05/21  a 21/05/21 18:00).
